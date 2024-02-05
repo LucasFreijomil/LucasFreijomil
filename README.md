@@ -1,10 +1,10 @@
 
 # 💫 About Me:
-Hi there! I'm Lucas Freijomil, a Fullstack Software Developer with experience in technologies such as React, Express, MongoDB, PostgreSQL, JavaScript, TypeScript, and many others.
+Passionate about technology and enthusiastic about the latest trends and tools, my professional goal is to join a development team where I can continue to grow and contribute my skills and knowledge.
 
-I have always been passionate about the world of technology and I love staying up-to-date with the latest trends and tools. My professional goal is to be part of a development team where I can continue to grow professionally and contribute my skills and knowledge.
+With experience in fullstack development and a strong willingness to continuously learn, I am committed to contribute to the success of the team and to face challenges with creativity and determination.
 
-If you are looking for someone with experience in fullstack development who is willing to continue learning and improving, don't hesitate to contact me!
+If you are looking for someone passionate and with a proactive approach to constant improvement, I look forward to the possibility of collaborating together on exciting technology projects!
 
 
 ## 🌐 Socials:
