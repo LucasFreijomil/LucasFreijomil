@@ -1,16 +1,16 @@
-### Hi there 👋
+💫 About Me:
+Hi there! I'm Rodrigo Spano, a Fullstack Software Developer with experience in technologies such as React, Express, MongoDB, PostgreSQL, JavaScript, TypeScript, and many others.
 
-<!--
-**LucasFreijomil/LucasFreijomil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have always been passionate about the world of technology and I love staying up-to-date with the latest trends and tools. My professional goal is to be part of a development team where I can continue to grow professionally and contribute my skills and knowledge.
 
-Here are some ideas to get you started:
+If you are looking for someone with experience in fullstack development who is willing to continue learning and improving, don't hesitate to contact me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Socials:
+LinkedIn
+
+💻 Tech Stack:
+JavaScript TypeScript CSS3 HTML5 Netlify Heroku Vercel Firebase Express.js Chakra Insomnia JWT NodeJS NestJS Next JS NPM React React Router Redux TailwindCSS Styled Components Socket.io Webpack MongoDB Postgres ESLint Postman Jira
+
+📊 GitHub Stats:
+
+
